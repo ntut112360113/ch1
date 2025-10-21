@@ -1,5 +1,5 @@
 
-public class simple14
+public class sample14
 {
 	public static void main(String[] args) 
 	{
@@ -15,4 +15,5 @@ public class simple14
         System.out.println("5/4等於"+div2);
 
 	}
+
 }
