@@ -1,5 +1,5 @@
 
-public class simple13
+public class sample13
 {
 	public static void main(String[] args) 
 	{
@@ -10,4 +10,5 @@ public class simple13
         System.out.println("身高是"+inum+"公分");
 
 	}
+
 }
