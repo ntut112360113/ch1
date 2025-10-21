@@ -1,5 +1,5 @@
 
-public class simple11
+public class sample11
 {
 	public static void main(String[] args) 
 	{
@@ -17,4 +17,5 @@ public class simple11
 		num1=num1+1;
 		System.out.println("變數num1的值加1後是:"+num1);
 	}
+
 }
